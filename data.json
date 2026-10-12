@@ -1,0 +1,178 @@
+{
+ "cta": {
+  "text": "Chưa thả tim hay bình luận tuần này? Vào học bài mới nhé!",
+  "label": "Học bài số 1 ngay",
+  "url": "https://hoclaideyeuhon.substack.com/p/tuan-1-con-nguoi-khao-khat-thien",
+  "all": "https://hoclaideyeuhon.substack.com"
+ },
+ "updated": "2026-10-12",
+ "teams": {
+  "au": {
+   "cls": "g-au",
+   "name": "Ấu + Hiệp"
+  },
+  "th": {
+   "cls": "g-th",
+   "name": "Thiếu"
+  },
+  "nc": {
+   "cls": "g-nc",
+   "name": "Nghĩa + Chiên"
+  }
+ },
+ "units": [
+  {
+   "id": "Ấu 1",
+   "t": "au",
+   "size": 7
+  },
+  {
+   "id": "Ấu 2",
+   "t": "au",
+   "size": 5
+  },
+  {
+   "id": "Ấu 3",
+   "t": "au",
+   "size": 9
+  },
+  {
+   "id": "HS1",
+   "t": "au",
+   "size": 2
+  },
+  {
+   "id": "HS2",
+   "t": "au",
+   "size": 2
+  },
+  {
+   "id": "Thiếu 1",
+   "t": "th",
+   "size": 9
+  },
+  {
+   "id": "Thiếu 2",
+   "t": "th",
+   "size": 7
+  },
+  {
+   "id": "Thiếu 3",
+   "t": "th",
+   "size": 8
+  },
+  {
+   "id": "Nghĩa 1",
+   "t": "nc",
+   "size": 7
+  },
+  {
+   "id": "Nghĩa 2",
+   "t": "nc",
+   "size": 6
+  },
+  {
+   "id": "Nghĩa 3",
+   "t": "nc",
+   "size": 4
+  },
+  {
+   "id": "Chiên",
+   "t": "nc",
+   "size": 8
+  }
+ ],
+ "weeks": [
+  {
+   "id": "w0",
+   "label": "Khởi động",
+   "range": "7/10 – 12/10/2026",
+   "scored": false,
+   "note": "Tuần khởi động: chạy thử hệ thống trên Bài số 1, chưa tính vào điểm mùa giải. Tim chưa có mốc giờ nên tính mọi lượt tương tác với bài đến ngày 12/10.",
+   "active": {
+    "Chiên": [
+     {
+      "n": "Maria Rita Cascia Võ Khánh Ngân",
+      "h": 1,
+      "c": 1
+     }
+    ],
+    "Ấu 1": [
+     {
+      "n": "Cecilia Đinh Lê Bảo Thy",
+      "h": 1,
+      "c": 1
+     }
+    ],
+    "Ấu 2": [
+     {
+      "n": "Vincente Trần Trung Hiếu",
+      "h": 1,
+      "c": 1
+     }
+    ],
+    "Ấu 3": [
+     {
+      "n": "Maria Chu Nguyễn Minh Anh",
+      "h": 1,
+      "c": 1
+     },
+     {
+      "n": "Lucia Nguyễn Ngọc Cẩm Linh",
+      "h": 1,
+      "c": 1
+     },
+     {
+      "n": "Anê Nghê Thị Tuyết Trang",
+      "h": 1,
+      "c": 1
+     }
+    ],
+    "Thiếu 2": [
+     {
+      "n": "Gioan Baotixita Nguyễn Thanh Vũ",
+      "h": 1,
+      "c": 0
+     }
+    ],
+    "Thiếu 3": [
+     {
+      "n": "Phaolô Nguyễn Kim Lân",
+      "h": 1,
+      "c": 1
+     },
+     {
+      "n": "Giuse Đào Đức Thắng",
+      "h": 1,
+      "c": 0
+     }
+    ],
+    "Nghĩa 1": [
+     {
+      "n": "Phanxico Xavie Nguyễn Lê Hồng Trinh",
+      "h": 1,
+      "c": 0
+     }
+    ],
+    "Nghĩa 2": [
+     {
+      "n": "Raymondo Nguyễn Minh Quân",
+      "h": 1,
+      "c": 1
+     }
+    ],
+    "Nghĩa 3": [
+     {
+      "n": "Phaolô Tịnh Lê Xuân Đa Minh",
+      "h": 1,
+      "c": 1
+     }
+    ]
+   }
+  }
+ ],
+ "gameshow": {
+  "events": [],
+  "next": "Buổi đầu tiên theo lịch tháng lẻ: thứ Tư 18/11/2026."
+ }
+}
